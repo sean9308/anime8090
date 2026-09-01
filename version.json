@@ -1,6 +1,1 @@
-{
-  "version": "1.6",
-  "versionCode": 4,
-  "url": "https://github.com/sean9308/anime8090/releases/latest/download/anime8090.apk",
-  "note": "v1.6：返回首页自动清空搜索框；分享改为弹二维码弹窗，可一键分享到微信"
-}
+{"version":"1.9","versionCode":7,"url":"https://gitee.com/gendama/anime8090/releases/download/v1.9/anime8090.apk","note":"修复检查更新失败；发现新版本可选下载或取消"}
