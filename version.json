@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "versionCode": 3,
+  "version": "1.6",
+  "versionCode": 4,
   "url": "https://github.com/sean9308/anime8090/releases/latest/download/anime8090.apk",
-  "note": "新版发布：支持 GitHub 自动更新，扫码即可下载安装"
+  "note": "v1.6：返回首页自动清空搜索框；分享改为弹二维码弹窗，可一键分享到微信"
 }
